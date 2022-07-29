@@ -1,7 +1,7 @@
-<h1> Hey mates I'm Caio, a hobbyist game dev and a professional nerd 👾🧠</h1>
+<h1> Hey mates I'm Caio, a web developer and a professional nerd 👾🧠</h1>
 
 
-<h2>I'm a backend .NET developer who has experience with MVC and some game development using C++</h2>
+<h2>I'm a backend .NET developer who has experience with MVC, UML and database modelling </h2>
 
 <div align="center">
   <a href="https://github.com/Ursulino204">
