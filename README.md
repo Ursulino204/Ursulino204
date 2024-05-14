@@ -1,7 +1,7 @@
 <h1> Hey mates I'm Caio, a web developer and a professional nerd 👾🧠</h1>
 
 
-<h2>I'm a Systems Analyst who has experience with MVC, UML and database modelling </h2>
+<h2>I'm a Systems Analyst who has experience with Quality Assurance, User and Manual Testing,Requirements engineering, MVC, UML and database modelling </h2>
 
 <div align="center">
   <a href="https://github.com/Ursulino204">
