@@ -1,4 +1,4 @@
-<h1> Hey mates I'm Caio, a web developer and a professional nerd 👾🧠</h1>
+<h1> Hey mates I'm Caio, a Quality Assurance and Systems Analyst and a professional nerd 👾🧠</h1>
 
 
 <h2>I'm a Systems Analyst who has experience with Quality Assurance, User and Manual Testing,Requirements engineering, MVC, UML and database modelling </h2>
