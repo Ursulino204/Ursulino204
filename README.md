@@ -1,35 +1,55 @@
-<h1> Hey mates I'm Caio, a Quality Assurance and Systems Analyst and a professional nerd 👾🧠</h1>
+# Caio Ursulino
 
+**Quality Assurance & Systems Analyst**
 
-<h2>I'm a Systems Analyst who has experience with Quality Assurance, User and Manual Testing,Requirements engineering, MVC, UML and database modelling </h2>
+Profissional com experiência em garantia de qualidade de software, análise de sistemas e engenharia de requisitos. Focado em entregar produtos confiáveis por meio de testes rigorosos e documentação clara.
+
+---
+
+## Experiência & Competências
+
+- Testes Manuais, Funcionais e Regressivos
+- Engenharia de Requisitos
+- Modelagem UML e diagramas de sistemas
+- Modelagem de banco de dados relacional
+- Padrão arquitetural MVC
+- Gestão de tarefas e acompanhamento de projetos
+
+---
+
+## Tecnologias
+
+### Qualidade & Testes
+![Manual Testing](https://img.shields.io/badge/Testes%20Manuais-0d6efd?style=for-the-badge&logoColor=white)
+![Functional Testing](https://img.shields.io/badge/Testes%20Funcionais-198754?style=for-the-badge&logoColor=white)
+![Regression Testing](https://img.shields.io/badge/Testes%20Regressivos-6f42c1?style=for-the-badge&logoColor=white)
+
+### Banco de Dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Modelagem & Gestão
+![UML](https://img.shields.io/badge/UML-FF8C00?style=for-the-badge&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=Trello&logoColor=white)
+
+### Desenvolvimento (conhecimento complementar)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/Ursulino204">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?env=PAT_1&username=Ursulino204&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?env=PAT_1&username=Ursulino204&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Typescript" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Trello" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- 
 
-  
+---
 
+## Contato
 
-</div>
-  
-  ##
- 
-<div> 
- 
-<a href="470010256680943617" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:caioursulino8@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/caio-ursulino-659a29206/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
- 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-ursulino-659a29206/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caioursulino8@gmail.com)
