@@ -75,6 +75,18 @@ Levantamento e documentação de requisitos funcionais e não funcionais; ponte 
 
 ---
 
+### 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| 🎭 [**Estudos e Projetos - Automação**](https://github.com/Ursulino204/Estudos-e-Projetos-Automacao) | Testes E2E de login no Sauce Demo com Page Object Model: cenários positivos, negativos e de validação | Playwright · TypeScript |
+| 🐾 [**Petshop Website**](https://github.com/Ursulino204/PetshopWebsite) | Sistema web de petshop (TCM em equipe): modelagem do banco e backend MVC com login e CRUD | C# · ASP.NET MVC · MySQL |
+| ⚙️ [**progc**](https://github.com/Ursulino204/progc) | Exercícios de C da Engenharia de Controle e Automação (IFSP), incluindo processamento de leituras de sensores | C |
+| 🐍 [**Python**](https://github.com/Ursulino204/Python) | Exercícios de lógica e Python (Curso em Vídeo e *Pense em Python*) | Python |
+| 📒 [**Notes**](https://github.com/Ursulino204/Notes) | Resumos de estudo sobre modelagem de banco de dados e análise de requisitos | Notion · PDF |
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
